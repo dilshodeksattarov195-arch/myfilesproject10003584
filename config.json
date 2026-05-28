@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicefarse",
+        "uuid": 33639424,
+        "checksum": "01eeii"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
